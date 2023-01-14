@@ -11,8 +11,8 @@ These instructions will get you a copy of the project up and running on your loc
 * GoMongo driver (you can install it by running go get go.mongodb.org/mongo-driver)
 
 ### go get
--u github.com/gofiber/fiber/v2
-go.mongodb.org/mongo-driver/mongo
-github.com/joho/godotenv
-github.com/go-playground/validator/v10
-github.com/klauspost/compress
+* -u github.com/gofiber/fiber/v2
+* go.mongodb.org/mongo-driver/mongo
+* github.com/joho/godotenv
+* github.com/go-playground/validator/v10
+* github.com/klauspost/compress
